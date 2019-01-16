@@ -42,8 +42,7 @@ This transformer is utilized in the [Attivio Java SDK Quick Start](https://answe
 Once content in ingested with this transformer in place, a search for "ainSpay" will return all the documents which contain "Spain" in either the title or text fields and "Spain" will also be highlighted.
 
 ## Release History
-* 1.0.0 - Initial release
-*  1.1.0 - Bug fixes
+* 0.1.0-SNAPSHOT - Initial release
 
 ## Author
 Anthony Paquette
